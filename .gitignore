@@ -1,0 +1,5 @@
+env/
+*.pdf
+*.doc
+*.pyc
+config.py

@@ -1,0 +1,3 @@
+FILE_TYPES = ['.pdf', '.doc']
+LINK_TO_SCRAPE = 'http://'
+FILE_BASE = 'http://'
